@@ -52,3 +52,30 @@ The Power BI dashboard includes:
 ---
 
 ## 📂 Project Structure
+Walmart-Data-Analysis
+│
+├── data/ # Walmart dataset (CSV)
+├── sql/ # SQL queries used for analysis
+├── dashboard/ # Power BI dashboard file
+└── README.md # Project documentation
+
+
+---
+
+## 🚀 Future Improvements
+- Add predictive analysis using **Python or Machine Learning**.
+- Automate data updates using **ETL pipelines**.
+- Deploy dashboards for real-time analytics.
+
+---
+
+## 👤 Author
+**Omkar**  
+Aspiring **Data Analyst / Data Engineer**
+
+- LinkedIn: https://www.linkedin.com/in/omkar-yadav-a70a23280/
+
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
